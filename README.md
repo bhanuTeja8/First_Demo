@@ -1,4 +1,4 @@
 # First_Demo
-``My first Repository.``
+My first repository
 <br>
-# Author - Bhanu Teja 
+``Author``: Teja
